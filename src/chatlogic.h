@@ -31,8 +31,8 @@ private:
     //// EOF STUDENT CODE
 
     // data handles (not owned)
-    GraphNode *_currentNode;
-    ChatBot *_chatBot;
+    GraphNode          *_currentNode;
+    ChatBot            *_chatBot;
     ChatBotPanelDialog *_panelDialog;
 
     // proprietary type definitions
